@@ -1,0 +1,5 @@
+﻿progress/state.json
+.scratch/
+node_modules/
+*.class
+target/
